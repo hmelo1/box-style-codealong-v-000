@@ -188,6 +188,10 @@ header {
   color: white;
 }
 
+#navbar nav a:hover{
+
+}
+
 /*////////// LOGO //////////*/
 
 #logo h1 {
