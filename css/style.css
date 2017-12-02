@@ -175,6 +175,10 @@ header {
   width: 15.6666667%;
   margin: 0;
   padding: 22px 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+  border-right: 1px solid #ccc;
 }
 /*////////// LOGO //////////*/
 
