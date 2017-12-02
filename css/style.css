@@ -30,6 +30,7 @@ figcaption {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+  background: white;
 }
 
 .border-right{
