@@ -149,14 +149,14 @@ img, video, audio, iframe, table, form {
 }
 
 /*////////// HEADER //////////*/
-header{
+header {
   margin: 0 0 30px;
 }
 
 
 /*////////// NAVBAR //////////*/
 
-#navbar{
+#navbar {
   position: fixed;
   top: 0;
   left: 0;
@@ -166,10 +166,13 @@ header{
   text-align: center;
 }
 
-#navbar nav{
+#navbar nav {
   border-left: 1px solid #ccc;
 }
 
+#navbar nav a {
+  
+}
 /*////////// LOGO //////////*/
 
 
