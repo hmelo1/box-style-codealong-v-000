@@ -180,7 +180,7 @@ header {
   color: black;
   border-right: 1px solid #ccc;
   text-decoration: none;
-  font: 1em "Trebuchet MS"
+  font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 /*////////// LOGO //////////*/
 
